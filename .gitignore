@@ -1,0 +1,4 @@
+node_modules/
+.env
+foundDocuments.json
+package-lock.json
